@@ -1,2 +1,2 @@
 # last-location
-Store current coordinates 
+Store current gps coordinates.
